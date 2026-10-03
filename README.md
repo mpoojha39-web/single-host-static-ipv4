@@ -89,7 +89,7 @@ This test checks the response of the IPv4 address assigned to PC0.
 
 ### 1. Static IP Address Configuration
 
-![Static IP Configuration](01-static ip-configuration.png)
+![Static IP Configuration](01-static-ip-configuration.png)
 
 ### 2. IPv4 Configuration Verification
 
